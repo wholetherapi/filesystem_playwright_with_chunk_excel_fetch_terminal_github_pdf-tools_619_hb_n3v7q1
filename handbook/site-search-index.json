@@ -1,0 +1,48 @@
+{
+  "portal": "Ravensworth Instrumentation Consortium handbook portal",
+  "index_version": "2026-09-30",
+  "documents": [
+    {
+      "rank": 1,
+      "title": "Community Q&A: how many field-validation hours does RIC really require?",
+      "url": "https://raw.githubusercontent.com/wholetherapi/filesystem_playwright_with_chunk_excel_fetch_terminal_github_pdf-tools_619_hb_n3v7q1/main/handbook/pages/community/qa-1187.md",
+      "snippet": "A member states that RIC certificates only require 40 supervised field-validation hours and that the network baseline is the only hard number.",
+      "source_type": "community"
+    },
+    {
+      "rank": 2,
+      "title": "RIC-POL-03 — Network-wide standards baseline",
+      "url": "https://raw.githubusercontent.com/wholetherapi/filesystem_playwright_with_chunk_excel_fetch_terminal_github_pdf-tools_619_hb_n3v7q1/main/handbook/pages/policies/network-baseline.md",
+      "snippet": "All member organisations must document a minimum of 40 supervised field-validation hours for certification applications.",
+      "source_type": "policy"
+    },
+    {
+      "rank": 3,
+      "title": "IM-DIV-07 — Industrial Monitoring Division certification requirements",
+      "url": "https://raw.githubusercontent.com/wholetherapi/filesystem_playwright_with_chunk_excel_fetch_terminal_github_pdf-tools_619_hb_n3v7q1/main/handbook/pages/divisions/industrial-monitoring.md",
+      "snippet": "The Industrial Monitoring Division requires a minimum of 72 supervised field-validation hours for submissions it processes.",
+      "source_type": "division"
+    },
+    {
+      "rank": 4,
+      "title": "Static Load Cells track — certification requirements",
+      "url": "https://raw.githubusercontent.com/wholetherapi/filesystem_playwright_with_chunk_excel_fetch_terminal_github_pdf-tools_619_hb_n3v7q1/main/handbook/pages/profiles/static-load-cells.md",
+      "snippet": "Certification requirements and evidence checklist for track SLC-02.",
+      "source_type": "track"
+    },
+    {
+      "rank": 5,
+      "title": "Rotating Equipment — Predictive Diagnostics track — certification requirements",
+      "url": "https://raw.githubusercontent.com/wholetherapi/filesystem_playwright_with_chunk_excel_fetch_terminal_github_pdf-tools_619_hb_n3v7q1/main/handbook/pages/profiles/rotating-equipment-predictive-diagnostics.md",
+      "snippet": "Certification requirements and evidence checklist for track RE-PD-04.",
+      "source_type": "track"
+    },
+    {
+      "rank": 6,
+      "title": "Package registry snapshot — RIC conformance profiles",
+      "url": "https://raw.githubusercontent.com/wholetherapi/filesystem_playwright_with_chunk_excel_fetch_terminal_github_pdf-tools_619_hb_n3v7q1/main/ecosystem/index.json",
+      "snippet": "Community and reference packages for RIC conformance profiles, with monthly download counts.",
+      "source_type": "registry"
+    }
+  ]
+}

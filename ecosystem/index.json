@@ -1,0 +1,64 @@
+{
+  "profile": "RIC-PBA-2.4",
+  "specification_document": "RIC-SPEC-217",
+  "snapshot_date": "2026-09-30",
+  "note": "Monthly download counts are taken from the consortium package index snapshot. Open the package documentation before relying on any conformance claim.",
+  "packages": [
+    {
+      "package": "pba-attention-kit",
+      "display_name": "PBA Attention Kit",
+      "monthly_downloads": 1284000,
+      "maintainer": "Open Modelling Labs",
+      "summary": "Attention-based predictive-maintenance modelling toolkit.",
+      "docs_path": "ecosystem/packages/pba-attention-kit/README.md"
+    },
+    {
+      "package": "ric-pba-legacy-sdk",
+      "display_name": "RIC PBA Legacy SDK",
+      "monthly_downloads": 612000,
+      "maintainer": "RIC Legacy Programme (archive)",
+      "summary": "Official harmonised SDK for RIC predictive analytics profiles.",
+      "docs_path": "ecosystem/packages/ric-pba-legacy-sdk/README.md"
+    },
+    {
+      "package": "pba-unified-toolkit",
+      "display_name": "PBA Unified Toolkit",
+      "monthly_downloads": 348000,
+      "maintainer": "Instrumentation Tools Collective",
+      "summary": "Unified toolbox covering multiple vendor PBA variants.",
+      "docs_path": "ecosystem/packages/pba-unified-toolkit/README.md"
+    },
+    {
+      "package": "pba-forecast-lite",
+      "display_name": "PBA Forecast Lite",
+      "monthly_downloads": 205000,
+      "maintainer": "Northfield Analytics",
+      "summary": "Lightweight forecasting runtime for PBA-series models.",
+      "docs_path": "ecosystem/packages/pba-forecast-lite/README.md"
+    },
+    {
+      "package": "pba-timeseries",
+      "display_name": "PBA TimeSeries",
+      "monthly_downloads": 96000,
+      "maintainer": "P. B. Andersen",
+      "summary": "Time-series utilities for predictive baselining.",
+      "docs_path": "ecosystem/packages/pba-timeseries/README.md"
+    },
+    {
+      "package": "ric-pba-reference",
+      "display_name": "RIC PBA Reference Implementation",
+      "monthly_downloads": 41000,
+      "maintainer": "Rotating Equipment Programme Office (RE-PO)",
+      "summary": "Reference implementation maintained by the RIC programme office.",
+      "docs_path": "ecosystem/packages/ric-pba-reference/README.md"
+    },
+    {
+      "package": "ric-pba-runtime",
+      "display_name": "RIC PBA Runtime",
+      "monthly_downloads": 18000,
+      "maintainer": "Embedded Systems Guild",
+      "summary": "Embedded runtime port for RIC predictive analytics profiles.",
+      "docs_path": "ecosystem/packages/ric-pba-runtime/README.md"
+    }
+  ]
+}

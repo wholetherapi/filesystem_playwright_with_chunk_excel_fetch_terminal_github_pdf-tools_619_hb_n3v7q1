@@ -1,0 +1,87 @@
+{
+  "body": "Ravensworth Instrumentation Consortium",
+  "publication_model": "Requirements are published at network, division and track level. A track is owned by the programme office that runs it, and that programme office publishes the certification requirement for the track. Division pages apply to submissions processed by the division; network pages set the baseline for all member organisations.",
+  "units": [
+    {
+      "unit_id": "RIC-NET",
+      "name": "RIC Network Office",
+      "level": "network",
+      "owns": [
+        "RIC-POL-03"
+      ],
+      "pages": [
+        "handbook/pages/policies/network-baseline.md"
+      ]
+    },
+    {
+      "unit_id": "IMD",
+      "name": "Industrial Monitoring Division",
+      "level": "division",
+      "owns": [
+        "IM-DIV-07"
+      ],
+      "pages": [
+        "handbook/pages/divisions/industrial-monitoring.md"
+      ]
+    },
+    {
+      "unit_id": "RE-PO",
+      "name": "Rotating Equipment Programme Office",
+      "level": "track_programme",
+      "owns": [
+        "RE-PD-04"
+      ],
+      "pages": [
+        "handbook/pages/profiles/rotating-equipment-predictive-diagnostics.md"
+      ]
+    },
+    {
+      "unit_id": "SLC-PO",
+      "name": "Static Load Cells Programme Office",
+      "level": "track_programme",
+      "owns": [
+        "SLC-02"
+      ],
+      "pages": [
+        "handbook/pages/profiles/static-load-cells.md"
+      ]
+    },
+    {
+      "unit_id": "FSD",
+      "name": "Fluid Systems Division",
+      "level": "division",
+      "owns": [
+        "FS-11"
+      ],
+      "pages": [
+        "handbook/pages/profiles/fluid-systems-inline-flow-meters.md"
+      ]
+    }
+  ],
+  "tracks": [
+    {
+      "track_id": "RE-PD-04",
+      "name": "Rotating Equipment — Predictive Diagnostics",
+      "division": "Industrial Monitoring Division",
+      "owner_unit": "RE-PO",
+      "conformance_profile": "RIC-PBA-2.4",
+      "page": "handbook/pages/profiles/rotating-equipment-predictive-diagnostics.md"
+    },
+    {
+      "track_id": "SLC-02",
+      "name": "Static Load Cells",
+      "division": "Industrial Monitoring Division",
+      "owner_unit": "SLC-PO",
+      "conformance_profile": "RIC-SLC-1.9",
+      "page": "handbook/pages/profiles/static-load-cells.md"
+    },
+    {
+      "track_id": "FS-11",
+      "name": "Fluid Systems — Inline Flow Meters",
+      "division": "Fluid Systems Division",
+      "owner_unit": "FSD",
+      "conformance_profile": "RIC-FS-2.2",
+      "page": "handbook/pages/profiles/fluid-systems-inline-flow-meters.md"
+    }
+  ]
+}
